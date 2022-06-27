@@ -15,7 +15,7 @@ BWpara.C=1;
 BWpara.K=1000;
 % Bouc-Wen main Parameters
 BWpara.beta=2.5;
-BWpara.gama=1.5;
+BWpara.gama=1;
 BWpara.alpha=0.3;
 BWpara.n=3;
 BWpara.uy=1.5e-5;      % yielding displacement
